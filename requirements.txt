@@ -1,0 +1,19 @@
+langchain==1.4.3
+langchain-classic
+langchain-core==1.6.6
+langchain-openai==1.6.7
+langchain-huggingface
+sentence-transformers
+langchain-ollama
+langchain-community
+langchain-text-splitters
+langgraph
+langgraph-checkpoint
+chromadb
+langsmith
+# openai
+pypdf
+python-dotenv
+fastapi[standard]
+uvicorn
+pydantic

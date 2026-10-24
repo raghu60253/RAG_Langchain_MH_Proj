@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.git
+.venv
+venv
+__pycache__
+*.py[cod]
+chroma_db
+AST-1.pdf
